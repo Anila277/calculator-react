@@ -1,0 +1,9 @@
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: linear-gradient(to bottom, rgb(18, 103, 3), rgb(1, 38, 10));
+}
